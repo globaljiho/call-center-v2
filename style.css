@@ -203,6 +203,8 @@ body {
 .logo-box.purple { background: linear-gradient(135deg, #8b5cf6, #6d28d9); }
 .logo-box.red { background: linear-gradient(135deg, #ef4444, #b91c1c); }
 .logo-box.orange { background: linear-gradient(135deg, #f97316, #c2410c); }
+.logo-box.dark-yellow { background: linear-gradient(135deg, #ca8a04, #854d0e); }
+.logo-box.pink { background: linear-gradient(135deg, #ec4899, #be185d); }
 
 .card-left h3 {
   font-size: 14px;
