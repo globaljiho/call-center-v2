@@ -231,14 +231,14 @@ body {
 
 .phone {
   display: block;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 800;
   color: #0f172a;
   letter-spacing: -0.3px;
 }
 
 .call-text {
-  font-size: 10px;
+  font-size: 12px;
   color: #2563eb;
   font-weight: 700;
   display: block;
