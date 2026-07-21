@@ -191,8 +191,10 @@ body {
   color: white;
   font-weight: 800;
   font-size: 18px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-  clip-path: path('M 22 3 Q 26 3 37 9 Q 42 12 42 18 L 42 26 Q 42 32 37 35 Q 26 41 22 41 Q 18 41 7 35 Q 2 32 2 26 L 2 18 Q 2 12 7 9 Q 18 3 22 3 Z');
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+
+  /* 상단과 바닥이 평평한 부드러운 육각형 */
+  clip-path: path('M 14 3 L 30 3 Q 34 3 38 10 L 41 18 Q 43 22 41 26 L 38 34 Q 34 41 30 41 L 14 41 Q 10 41 6 34 L 3 26 Q 1 22 3 18 L 6 10 Q 10 3 14 3 Z');
 }
 
 .logo-box.blue { background: linear-gradient(135deg, #3b82f6, #1d4ed8); }
